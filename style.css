@@ -1,0 +1,20 @@
+.container {
+    width: 500px;
+    height: 500px;
+    background-color: darkgrey;
+}
+
+.main1 {
+    width: 150px;
+    height: 150px;
+}
+
+.main2 {
+    width: 150px;
+    height: 150px;
+}
+
+.main3 {
+    width: 150px;
+    height: 150px;
+}
